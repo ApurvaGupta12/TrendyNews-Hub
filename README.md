@@ -4,13 +4,13 @@ A modern and responsive React + TypeScript news application that fetches real-ti
 ## Project Screenshots
 
 ###  Home Page
-![Home Page](./public/HomePage.png)
+![Home Page](./public/HomePage.PNG)
 
-### Home Page
-![Home Page (Part 2)](./public/HomePage2.png)
+### Home Page(Part 2)
+![Home Page (Part 2)](./public/HomePage2.PNG)
 
 ### News Page
-![News Page](./public/NewsPage.png)
+![News Page](./public/NewsPage.PNG)
 
 ##  Tech Stack
 - React
