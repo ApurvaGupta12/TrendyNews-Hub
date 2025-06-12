@@ -1,2 +1,4 @@
 # TrendyNews-Hub
-Stay informed with a responsive news platform that brings you trending stories from multiple categories in real-time.
+A modern and responsive React + TypeScript news application that fetches real-time news from NewsAPI based on search queries and categories like sports, politics, health, and more.
+
+
