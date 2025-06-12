@@ -7,7 +7,7 @@ A modern and responsive React + TypeScript news application that fetches real-ti
 ![Home Page](./public/HomePage.png)
 
 ### Home Page
-![Home Page](./public/HomePage2.png)
+![Home Page (Part 2)](./public/HomePage2.png)
 
 ### News Page
 ![News Page](./public/NewsPage.png)
